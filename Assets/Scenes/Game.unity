@@ -45753,6 +45753,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 728773603618870535, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 864831773240992878, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -45833,12 +45837,67 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2795529456112472902, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3640610825822957399, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -50
+      objectReference: {fileID: 0}
     - target: {fileID: 4191442376822751588, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
       propertyPath: m_Name
       value: UICanvasses
       objectReference: {fileID: 0}
+    - target: {fileID: 4245830026223543940, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 4711142350036990251, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 5748981460161198986, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6154145453898922518, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 6154145453898922518, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 7500446907482313217, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7666217403546103038, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7714896864923341177, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110206446010576920, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 8110206446010576920, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 9198676148931371784, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+      propertyPath: m_IsOn
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 6650150753484686678, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+    - {fileID: 1801505556843510495, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
+    - {fileID: 3836967338009888922, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a5381a39a3a66e42939db63b8cc9e40, type: 3}
